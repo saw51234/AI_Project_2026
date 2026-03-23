@@ -1,6 +1,6 @@
 # IMG2IMG
 
-|[image](https://github.com/saw51234/AI_Project_2026/blob/main/IMG2IMG/image.png?raw=true)
+![image](https://github.com/saw51234/AI_Project_2026/blob/main/IMG2IMG/00000-2630168208.png?raw=true)
 
 > Prompt
 
